@@ -82,7 +82,6 @@ PRODUCT_PACKAGES += \
     UserDictionaryProvider \
     VpnDialogs \
     vr \
-    FodAnimationResources 
 
 
 PRODUCT_SYSTEM_SERVER_APPS += \
